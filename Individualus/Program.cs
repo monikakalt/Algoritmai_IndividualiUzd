@@ -9,6 +9,7 @@ namespace Individualus
     class Program
     {
         static void Main(string[] args)
+
         {
         }
     }
